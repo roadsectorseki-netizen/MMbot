@@ -21,4 +21,5 @@ MMBOT は、Fortnite や各種内戦を円滑に進めるためのチーム分�
 ```bash
 npm install
 
+custom: https://ofuse.me/7611eb33
 
